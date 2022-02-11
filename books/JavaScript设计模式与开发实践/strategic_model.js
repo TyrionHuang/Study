@@ -1,3 +1,9 @@
+/**
+ * 策略模式
+ * @param salary
+ * @returns {number}
+ * @constructor
+ */
 const S = (salary) => {
     return salary * 4;
 };
